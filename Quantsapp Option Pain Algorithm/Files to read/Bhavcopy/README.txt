@@ -1,0 +1,1 @@
+These contain the previous day's trade prices and Open Interest, which is to be carried forward for the stocks which are NOT traded in the 5 min snapshot file. 

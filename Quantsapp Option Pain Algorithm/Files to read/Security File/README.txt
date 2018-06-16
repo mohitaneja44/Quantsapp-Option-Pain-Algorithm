@@ -1,0 +1,1 @@
+This file contains the SCRIP CODES for all the instruments that are to be traded today. The scrip  codes need to be revised daily, by taking into account the expired instruments (which should be removed) and the introduction of new instruments (which are assigned new scrip codes AND OR same scrip codes from the discarded instruments)
